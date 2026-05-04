@@ -1,0 +1,69 @@
+[
+  {
+    "id": "proj-001",
+    "title": "E-Commerce SEO Audit & Recovery Plan",
+    "description": "Conducted a comprehensive technical SEO audit for a mid-market e-commerce platform experiencing a 40% organic traffic drop after a site migration. Identified 127 critical issues including broken canonical chains, missing hreflang tags, and crawl budget waste. Delivered a prioritized recovery roadmap that restored rankings within 8 weeks.",
+    "techStack": ["Screaming Frog", "Google Search Console", "Ahrefs", "Looker Studio", "Python"],
+    "completionDate": "2025-11-15T00:00:00.000Z",
+    "category": "SEO Audit",
+    "featured": true,
+    "imageUrl": "/images/projects/ecommerce-seo-audit.jpg"
+  },
+  {
+    "id": "proj-002",
+    "title": "Marketing Dashboard Redesign",
+    "description": "Redesigned a legacy marketing analytics dashboard used by 200+ internal stakeholders. Replaced a cluttered jQuery-based UI with a responsive React interface featuring real-time data visualizations, customizable widget grids, and dark mode support. Reduced page load time by 62% and improved SUS score from 58 to 84.",
+    "techStack": ["React", "TypeScript", "D3.js", "Tailwind CSS", "TanStack Query", "Vitest"],
+    "completionDate": "2026-01-22T00:00:00.000Z",
+    "category": "Frontend",
+    "featured": true,
+    "imageUrl": "/images/projects/dashboard-redesign.jpg"
+  },
+  {
+    "id": "proj-003",
+    "title": "Competitive Landscape Analysis — Fintech SaaS",
+    "description": "Performed an in-depth competitive research study across 14 fintech SaaS products in the APAC market. Analyzed feature matrices, pricing models, user reviews, and GTM strategies. Produced a 45-page report with actionable recommendations that informed the product roadmap for Q1 2026.",
+    "techStack": ["Excel", "PowerPoint", "SimilarWeb", "Crunchbase", "Notion"],
+    "completionDate": "2025-09-30T00:00:00.000Z",
+    "category": "Research",
+    "featured": false
+  },
+  {
+    "id": "proj-004",
+    "title": "REST API for Activity Logging Service",
+    "description": "Designed and built a RESTful API for an internal activity logging microservice handling 50k+ events per day. Implemented JWT authentication, rate limiting, pagination, and structured error responses following RFC 7807. Wrote comprehensive integration tests achieving 94% code coverage.",
+    "techStack": ["Node.js", "Express", "PostgreSQL", "Prisma", "Docker", "Jest"],
+    "completionDate": "2026-02-10T00:00:00.000Z",
+    "category": "Backend",
+    "featured": false
+  },
+  {
+    "id": "proj-005",
+    "title": "Brand Identity System for Tech Startup",
+    "description": "Developed a complete brand identity system for an early-stage AI startup, including logo design, typography scale, color palette, iconography set, and component library guidelines. Delivered a 60-page brand book and Figma component kit adopted by the entire product and marketing team.",
+    "techStack": ["Figma", "Illustrator", "After Effects", "Notion"],
+    "completionDate": "2025-12-05T00:00:00.000Z",
+    "category": "Design",
+    "featured": false,
+    "imageUrl": "/images/projects/brand-identity.jpg"
+  },
+  {
+    "id": "proj-006",
+    "title": "Local SEO Optimization for Multi-Location Retail Chain",
+    "description": "Audited and optimized Google Business Profiles for 23 retail locations across three states. Standardized NAP data, resolved duplicate listings, implemented a review response workflow, and built local landing pages. Achieved a 34% increase in Google Maps impressions and 28% growth in direction requests within 90 days.",
+    "techStack": ["BrightLocal", "Google Business Profile API", "WordPress", "Schema.org", "Data Studio"],
+    "completionDate": "2026-03-18T00:00:00.000Z",
+    "category": "SEO Audit",
+    "featured": false
+  },
+  {
+    "id": "proj-007",
+    "title": "Interactive Data Visualization Explorer",
+    "description": "Built an interactive data explorer allowing users to filter, sort, and visualize a 2M-row public dataset through choropleth maps, scatter plots, and time-series charts. Implemented Web Workers for background computation and IndexedDB for client-side caching to maintain 60fps interactions.",
+    "techStack": ["React", "TypeScript", "Mapbox GL", "Deck.gl", "Web Workers", "IndexedDB"],
+    "completionDate": "2026-04-02T00:00:00.000Z",
+    "category": "Frontend",
+    "featured": false,
+    "imageUrl": "/images/projects/data-explorer.jpg"
+  }
+]
